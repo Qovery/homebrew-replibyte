@@ -1,5 +1,5 @@
 class Replibyte < Formula
-  version "0.6.0"
+  version "0.6.2"
   desc "Synchronize your cloud databases and hide sensitive data 🕵️‍♀️"
   homepage "https://github.com/Qovery/replibyte"
   url "https://github.com/Qovery/replibyte/archive/refs/tags/v#{version}.zip"
