@@ -1,9 +1,9 @@
 class Replibyte < Formula
   version "0.6.2"
-  desc "Synchronize your cloud databases and hide sensitive data 🕵️‍♀️"
+  desc "Seed Your Development Database With Real Data ⚡️"
   homepage "https://github.com/Qovery/replibyte"
   url "https://github.com/Qovery/replibyte/archive/refs/tags/v#{version}.zip"
-  sha256 "fdb3ac492818208f288ed0ae52a1c414e26a981f4fd087a33741b9f3d6f81460"
+  sha256 "4ba8a9fc1799257aab7c04f886b907fd1e08e8fea5af6de35036787009570ba3"
   license "MIT"
 
   def install
