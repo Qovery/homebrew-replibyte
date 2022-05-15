@@ -3,7 +3,7 @@ class Replibyte < Formula
   desc "Seed Your Development Database With Real Data ⚡️"
   homepage "https://github.com/Qovery/replibyte"
   url "https://github.com/Qovery/replibyte/archive/refs/tags/v#{version}.zip"
-  sha256 "4ba8a9fc1799257aab7c04f886b907fd1e08e8fea5af6de35036787009570ba3"
+  sha256 "db1bed1a7a94ed2d594f4ba9f1613a04bed1e2f606c2af77a2f8fa709c8bbc9d"
   license "MIT"
 
   def install
