@@ -1,5 +1,5 @@
 class Replibyte < Formula
-  version "0.6.2"
+  version "0.6.3"
   desc "Seed Your Development Database With Real Data ⚡️"
   homepage "https://github.com/Qovery/replibyte"
   url "https://github.com/Qovery/replibyte/archive/refs/tags/v#{version}.zip"
