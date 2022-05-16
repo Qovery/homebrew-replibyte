@@ -1,5 +1,5 @@
 class Replibyte < Formula
-  version "0.6.4"
+  version "0.7.0"
   desc "Seed Your Development Database With Real Data ⚡️"
   homepage "https://github.com/Qovery/replibyte"
   url "https://github.com/Qovery/replibyte/releases/download/v#{version}/replibyte_v#{version}_x86_64-apple-darwin.zip"
