@@ -1,9 +1,9 @@
 class Replibyte < Formula
-  version "0.9.0"
+  version "0.9.1"
   desc "Seed Your Development Database With Real Data ⚡️"
   homepage "https://github.com/Qovery/replibyte"
-  url "https://github.com/Qovery/replibyte/releases/download/v0.9.0/replibyte_v0.9.0_x86_64-apple-darwin.zip"
-  sha256 "282dbae10d3394e223799db09cc0d6dc94777492d112111e42afd8b70439739f"
+  url "https://github.com/Qovery/replibyte/releases/download/v0.9.1/replibyte_v0.9.1_x86_64-apple-darwin.zip"
+  sha256 "349d4d74bee705f313688b3a34afba9ce0c0d7d3c2b185a0045c9cb852eacdd9"
   license "MIT"
 
   def install
